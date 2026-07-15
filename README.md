@@ -6,13 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on building out a second-brain environment with:
-  - Ollama
-  - Obsidian
-  - Open WebUI
-  - Open Terminal
-  - GitHub MCP
-  - Docker MCP
+- 🔭 I’m currently building out a second-brain environment with Ollama, Obsidian, Open WebUI, Open Terminal, GitHub MCP and Docker MCP
 - 🌱 I’m currently refreshing my knowledge on Git and version control while also working within Codex, Claude Code, Pi and ComfyUI.
 
   <!--
