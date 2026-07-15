@@ -22,5 +22,5 @@
 
 ## Projects
 
-- [git-learning-log](https://github.com/mjryan/git-learning-log) - My first Git project tracking a learning log
-- [client-work](https://github.com/mjryan/ClientWork) - A repository of various client + freelance projects I was apart of over the years.
+- [client-work](https://github.com/mjryan/ClientWork) - various client + freelance projects
+- [git-learning-log](https://github.com/mjryan/git-learning-log) - a Git project tracking a learning log
