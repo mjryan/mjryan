@@ -6,10 +6,18 @@
 
 ## About Me
 
-- 🔭 I’m currently working on a second-brain environment using Ollama + Obsidian + Open WebUI + Open Terminal + GitHub MCP + Docker MCP
-- 🌱 I’m currently refreshing my knowledge on Git and version control.
-- 🌱 I’m currently learning AI DevOps in Codex, Claude Code & Pi.dev as well as expanding my work within ComfyUI.
-<!--
+- 🔭 I’m currently working on building out a second-brain environment with:
+  - Ollama
+  - Obsidian
+  - Open WebUI
+  - Open Terminal
+  - GitHub MCP
+  - Docker MCP
+- 🌱 I’m currently refreshing my knowledge on Git and version control while also working within Codex, Claude Code, Pi and ComfyUI.
+
+  <!--
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
